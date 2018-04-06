@@ -13,13 +13,13 @@ arm and hand trajectory control using a FollowJointTrajectory interface.
 About
 -----
 
-The system is currently under development and testing, and is targeted for released in early April 2018.
+The system is currently under development and testing, and is targeted for released in early June 2018.
 
 
 Install
 -------
 
-* Complete installation and demonstrations directions are coming April 2018
+* Complete installation and demonstrations directions are coming June 2018
 
 License
 -------
